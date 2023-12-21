@@ -1,0 +1,6 @@
+h1#alert{
+ width: 400px;
+ height: 400px;
+ color: red;
+ font-weight: bold;
+}
