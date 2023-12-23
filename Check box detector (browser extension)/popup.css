@@ -1,0 +1,39 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 20px;
+    width: 400px;
+    height: 400px;
+}
+
+.popup-container {
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    color: #666;
+}
+
+p {
+    color: #888;
+}
+
+ol {
+    text-align: left;
+    margin-left: 20px;
+}
+
+ol li {
+    margin-bottom: 10px;
+}
+
+#display-alert{
+    color: red;
+    font-weight: bold;
+}
